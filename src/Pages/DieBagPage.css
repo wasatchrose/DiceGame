@@ -1,0 +1,29 @@
+
+.diebagpage {
+    width: 50%;
+    padding: 20px;
+    margin: 10px;
+    background: #d9b38c;
+    color: #fff;
+    font-size: 21px;
+    font-weight: bold;
+    line-height: 1.3em;
+    border: 2px dashed #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 0 4px #d9b38c, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
+    text-shadow: -1px -1px #86592d;
+    font-weight: normal;
+ }
+
+
+
+.adddiecontainer {
+        border: 1px solid black;
+        margin-bottom: 10px;
+        padding: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: left;
+        width: 40%;
+        color: brown;
+}

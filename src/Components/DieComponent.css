@@ -1,0 +1,10 @@
+.diecontainer {
+    border: 1px solid black;
+    margin-bottom: 10px;
+    background: #f9f2ec;
+    color: brown;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
